@@ -1,0 +1,13 @@
+
+<script>
+	
+	var x=confirm("Are You W");
+	if(x)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+	</script>
